@@ -3,7 +3,6 @@
 package com.set;
 
 import java.util.LinkedHashSet;
-import java.util.Spliterator;
 
 // Main class
 public class Main {
